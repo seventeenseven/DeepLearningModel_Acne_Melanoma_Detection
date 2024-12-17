@@ -1,7 +1,7 @@
 # DeepLearningModel_Acne_Melanoma_Detection
 Convolutionary Neural Network model train to detect Skin diseases and conditions like Melanoma, Acne, Psioriasis.
 
-##Project Goals 
+## Project Goals 
 - To create and train a robust CNN model to recognize major skin diseases and conditions.
 - To implement an interface where users could upload pictures and get a reliable diagnosis
 - Make the tool available for professionals (dermatologists).
